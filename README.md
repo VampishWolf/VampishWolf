@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VampishWolf
 - 👀 I’m interested in Web Development and cool projects
-- 🌱 I’m currently learning Cloud Infrastructure
-- 💞️ I’m looking to collaborate on projects with Cloud involvement
+- 🌱 I’m currently working with web3
+- 💞️ I’m looking to collaborate on projects on Web3
 - 📫 How to reach me through - ashish.mittal731@gmail.com
 
 <!---
